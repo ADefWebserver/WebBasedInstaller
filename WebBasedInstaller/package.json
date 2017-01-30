@@ -1,5 +1,5 @@
 {
-  "name": "LACOE",
+  "name": "WebBasedInstaller",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation",
   "scripts": {
